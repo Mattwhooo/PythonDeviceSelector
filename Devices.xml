@@ -1,0 +1,27 @@
+<devices>
+
+    <device>
+        <udid>1234</udid>
+        <deviceName>Android-GalaxyS2</deviceName>
+        <manufacturer>Samsung</manufacturer>
+        <model>Galaxy S2</model>
+        <osv>5.0.2</osv>
+    </device>
+
+    <device>
+        <udid>1235</udid>
+        <deviceName>Android-LGG2</deviceName>
+        <manufacturer>LG</manufacturer>
+        <model>G2</model>
+        <osv>5.0.3</osv>
+    </device>
+
+    <device>
+        <udid>1236</udid>
+        <deviceName>Android-Nexus10</deviceName>
+        <manufacturer>Google</manufacturer>
+        <model>Nexus 10</model>
+        <osv>5.0.4</osv>
+    </device>
+
+</devices>
